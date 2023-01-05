@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Vision 24 LED TV S2",
+      "image": "https://vision.com.bd/images/detailed/120/24__S2_Front_Side_800x800pxl.jpg",
+      "price": 499,
+      "review": 1100,
+      "category": "TV"
+    },
+    {
+      "id": 2,
+      "title": "WH-1000XM4 Wireless Noise",
+      "image": "https://www.sony-asia.com/image/5d02da5df552836db894cead8a68f5f3?fmt=pjpeg&wid=330&bgcolor=FFFFFF&bgc=FFFFFF",
+      "price": 299,
+      "review": 780,
+      "category": "Headphones"
+    },
+    {
+      "id": 3,
+      "title": "Refurbished Apple Watch",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/FKH83?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1647900056831",
+      "price": 1199,
+      "review": 835,
+      "category": "Watch"
+    },
+    {
+      "id": 4,
+      "title": "MSI Optix G27CQ4",
+      "image": "https://www.startech.com.bd/image/cache/catalog/monitor/msi/g27cq4/g27cq4-500x500.jpg",
+      "price": 850,
+      "review": 300,
+      "category": "Monitor"
+    },
+    {
+      "id": 5,
+      "title": "Buy MSI G241VC, 24",
+      "image": "https://m.media-amazon.com/images/I/61ANdv+2OxL._AC_SL1024_.jpg",
+      "price": 890,
+      "review": 290,
+      "category": "Monitor"
+    }
+  ]
+}

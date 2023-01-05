@@ -1,0 +1,19 @@
+{
+  "name": "alpha-tronics",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel ./src/index.html --open",
+    "build": "parcel build ./src/index.html",
+    "server": "json-server ./db.json --watch --port 5000"
+  },
+  "author": "Tufael Ahmed",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "postcss": "^8.4.20",
+    "tailwindcss": "^3.2.4"
+  },
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
